@@ -5,3 +5,4 @@ langchain-anthropic
 langchain-groq
 dotenv
 streamlit
+langchain-community
