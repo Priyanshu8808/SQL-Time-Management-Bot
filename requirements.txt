@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain-huggingface
+langchain-anthropic
+langchain-groq
+dotenv
+streamlit
