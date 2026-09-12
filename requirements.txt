@@ -5,3 +5,7 @@ langchain-anthropic
 langchain-groq
 dotenv
 streamlit
+langchain-community
+langgraph
+PyPDF
+beautifulsoup4
