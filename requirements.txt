@@ -6,9 +6,7 @@ langchain-groq
 dotenv
 streamlit
 langchain-community
-<<<<<<< HEAD
 langgraph
 PyPDF
 beautifulsoup4
-=======
->>>>>>> 65a387aeef9d5a95ed04df3907e60150133cbcbd
+
